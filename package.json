@@ -8,6 +8,10 @@
     "build": "webpack",
     "watch": "webpack --watch"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gusloox/restaurant-page"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
