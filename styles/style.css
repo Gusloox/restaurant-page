@@ -6,7 +6,7 @@
 }
 body{
     height: 100vh;
-    background-image: url('../imgs/indexPhoto.jpg');
+    background-image: url('imgs/indexPhoto.jpg');
     position: relative;
     background-position: center;
     background-repeat: no-repeat;
